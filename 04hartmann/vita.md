@@ -1,0 +1,2 @@
+---
+**Frank Hartmann** ist Professor für Geschichte und Theorie der Visuellen Kommunikation an der Bauhaus-Universität Weimar. Er hat zahlreiche Publikationen zu Medienphilosophie verfasst und ist Herausgeber der Schriftenreihe "Forschung Visuelle Kultur", darunter der Band "Vom Buch zur Datenbank. Paul Otlets Utopie der Wissensvisualisierung" (Berlin 2012).
