@@ -98,11 +98,11 @@ Buch- und Spieletiteln beschriftet. (Bild 3) Diese Fassade, explizit aus
 Schweizer Holz gestaltet, lehnt sich an die Gestaltung der alten
 Bauernhäusern des Berner Oberlandes an.[^6]
 
-![Bild 1: Bibliothek und Ludothek Spiez, Baukörper. (Photo: Rudolf Mumenthaler)](img/schuldtmumenthaler01.jpg)
+![Bild 1: Bibliothek und Ludothek Spiez, Baukörper. (Photo: Rudolf Mumenthaler)](img/schuldtmumenthaler1.jpg)
 
-![Bild 2: Bibliothek und Ludothek Spiez, Blick von der zweiten Etage auf den Platz vor dem Gebäude. (Photo: Rudolf Mumenthaler)](img/schuldtmumenthaler02.jpg)
+![Bild 2: Bibliothek und Ludothek Spiez, Blick von der zweiten Etage auf den Platz vor dem Gebäude. (Photo: Rudolf Mumenthaler)](img/schuldtmumenthaler2.jpg)
 
-![Bild 3: Bibliothek und Ludothek Spiez, Beschriftung der Lamellen. (Photo: Rudolf Mumenthaler)](img/schuldtmumenthaler03.jpg)
+![Bild 3: Bibliothek und Ludothek Spiez, Beschriftung der Lamellen. (Photo: Rudolf Mumenthaler)](img/schuldtmumenthaler3.jpg)
 
 Der Innenraum der Bibliothek und Ludothek ist durchgängig vom Weiss der
 Wände, Decken, Böden und meisten Möbel geprägt, aufgelockert durch helle
@@ -122,13 +122,13 @@ gegenüberliegenden Schulzentrums genutzt wird, ist durch Türen in den
 Bibliotheksraum hinein zu öffnen. Ein Lesegarten hinter dem Gebäude war
 geplant, ist aber noch nicht umgesetzt.
 
-![Bild 4: Bibliothek und Ludothek Spiez, Blick aus dem Café in den Bibliotheksraum. (Photo: Rudolf Mumenthaler)](img/schuldtmumenthaler04.jpg)
+![Bild 4: Bibliothek und Ludothek Spiez, Blick aus dem Café in den Bibliotheksraum. (Photo: Rudolf Mumenthaler)](img/schuldtmumenthaler4.jpg)
 
-![Bild 5: Bibliothek und Ludothek Spiez, Tresen. (Photo: Rudolf Mumenthaler)](img/schuldtmumenthaler05.jpg)
+![Bild 5: Bibliothek und Ludothek Spiez, Tresen. (Photo: Rudolf Mumenthaler)](img/schuldtmumenthaler5.jpg)
 
-![Bild 6: Bibliothek und Ludothek Spiez, Bibliotheksraum. (Photo: Rudolf Mumenthaler)](img/schuldtmumenthaler06.jpg)
+![Bild 6: Bibliothek und Ludothek Spiez, Bibliotheksraum. (Photo: Rudolf Mumenthaler)](img/schuldtmumenthaler6.jpg)
 
-![Bild 7: Bibliothek und Ludothek Spiez, Ludothek. (Photo: Rudolf Mumenthaler)](img/schuldtmumenthaler07.jpg)
+![Bild 7: Bibliothek und Ludothek Spiez, Ludothek. (Photo: Rudolf Mumenthaler)](img/schuldtmumenthaler7.jpg)
 
 ### Der Besuch
 
@@ -239,7 +239,7 @@ anderer Bibliotheken und fand die Lösungen im Innenraum in Spiez
 praktikabel und nachvollziehbar, aber kaum hervorstechend anders als in
 anderen Bibliotheken.
 
-![Bild 8: Die unterschiedlichen Herangehensweisen.](img/schuldtmumenthaler08.jpg)
+![Bild 8: Die unterschiedlichen Herangehensweisen.](img/schuldtmumenthaler8.jpg)
 
 Bild 8 skizziert die unterschiedlichen Herangehensweisen an den Besuch
 in Spiez. Sichtbar ist hier, dass von den Forschenden aus der
