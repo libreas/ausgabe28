@@ -1,9 +1,3 @@
-Hartmann: Urheberrecht für die Bildungspraxis
-
-Rezension zu: Hartmann, Thomas: Urheberrecht für die Bildungspraxis.
-Bielefeld: W. Bertelsmann Verlag, 2014.
-
-Michael Weller
 
 Einen Leitfaden für Lehrende und Bildungseinrichtungen im Umgang mit
 urheberrechtlichen Fragen zu entwickeln, hat sich Thomas Hartmann zur
