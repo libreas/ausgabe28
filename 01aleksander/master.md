@@ -550,7 +550,7 @@ verweist auf die Verschränkung, die Diffraktion und Intra-Aktion.
 Stärken wir mit dieser Perspektive die inhaltliche Erschließung und
 nähern uns asymptotisch einer transdisziplinär arbeitenden Bibliothek.
 
-Literatur
+### Literatur
 
 Aleksander, Karin (2014): Die Frau im Bibliothekskatalog. In: LIBREAS.
 Library Ideas, 25 (2014). <http://libreas.eu/ausgabe25/02alexander/>.
