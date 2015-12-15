@@ -118,8 +118,3 @@ sondern auch als Nachschlagewerk eine wertvolle Stütze sein und dazu
 beitragen, urheberrechtliche Risiken zu erkennen und zu vermeiden sowie
 vor allem vorhandene urheberrechtliche Spielräume sinnvoll zu nutzen.
 
-**Vita**
-
-Rechtsanwalt Michael Weller, Geschäftsführer und Projektverantwortlicher
-„remus – Rechtsfragen von Multimedia und Internet in Schule und
-Hochschule“, Europäische EDV-Akademie des Rechts gGmbH, Merzig/Saar
