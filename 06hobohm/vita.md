@@ -1,0 +1,2 @@
+---
+**Hans-Christoph Hobohm** ist seit 1995 Professor für Bibliotheks- und Informationswissenschaft an der Fachhochschule Potsdam. Neben Wissensmanagement und Informationsverhaltensforschung ist eines seiner Lehr- und Forschungsgebiete Bibliothekstypologie und Bibliothekstheorie.
