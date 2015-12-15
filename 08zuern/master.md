@@ -419,7 +419,7 @@ belegt, dass Stadtbewohner ein großes Bedürfnis nach Orten ohne
 Konsumzwang haben, wo sie sich versammeln und austauschen oder einfach
 im Stillen ein Buch lesen können.
 
-### Benutzte Literatur
+### Literatur
 
 Brawne, Michael: Bibliotheken. Architektur und Einrichtung, Stuttgart
 1970
