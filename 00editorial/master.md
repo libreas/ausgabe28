@@ -11,8 +11,7 @@ mit klarem Anfang, Ablauf, Höhepunkten und Ende. Auch die letzten zehn
 Jahre der LIBREAS. Library Ideas liessen sich so fassen. Eine Gruppe
 Studierender mit einer Idee, die sie durchziehen auf dem Weg durch ihr
 Leben (ihre Ausbildung, ihr inhaltliches, persönliches, professionelles
-Wandern durch Karrieren, Lebensentscheidungen und Ortswechsel)
-mitnehmen, ausbauen und dann zu einer Veranstaltung hin führen, die
+Wandern durch Karrieren, Lebensentscheidungen und Ortswechsel), ausbauen und dann zu einer Veranstaltung hin führen, die
 wieder an den Anfang anschliesst. Aber (und hier kommen sehr schnell
 wieder Zweifel an der Ernsthaftigkeit des Konzeptes Storytelling auf):
 So eine klare Geschichte findet sich in schlechten Romanen und Filmen.
@@ -39,7 +38,7 @@ wieder dem "Verschwinden" von Einzelnen aus der Geschichte, den
 persönlichen Entwicklungen (wir sind heute nicht nur fertig ausgebildet,
 sondern teilweise erstaunlich "erwachsen" geworden, zum Teil), dann nach
 zehn Jahren ankommend in modernen, hellen, aufgeräumten Räumen des
-Berlin Institute for Cultural Inquiry, um in einer Veranstaltung wie die
+Berlin Institute for Cultural Inquiry, um in einer Veranstaltung die
 gleiche Frage wie am Anfang zu stellen: Was ist eigentlich die Idee der
 Bibliothek?
 
