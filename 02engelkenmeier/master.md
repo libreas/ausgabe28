@@ -390,7 +390,9 @@ mittig im Raum stehende Tische und Stühle als Lesebereich werden
 überwiegend als Hintergrund gezeigt.
 
 ![Wer ist hier der Boss?" (1987)](img/image28.jpeg) 
+
 !["King of Queens" (2000)](img/image29.jpeg)
+
 !["Two and a Half Men" (2012)](img/image30.jpeg)
 
 Man könnte meinen, die Produktion aus 2012 hätte dieselbe Ausstattung
