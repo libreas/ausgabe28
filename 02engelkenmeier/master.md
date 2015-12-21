@@ -655,19 +655,6 @@ Fiction konsumieren. Wie es in diesen Genres mit dem Bild der
 Bibliotheken und Bibliothekare bestellt ist, muss eine umfangreichere
 Analyse zeigen.
 
-**Ute Engelkenmeier:** Ausgestattet mit einem ausgiebigen Studium des
-Bibliothekswesens (FHBD Köln, Musikbibliothekarisches Zusatzstudium HBI
-Stuttgart) und der Bibliotheks- und Informationswissenschaft (Humboldt
-Universität zu Berlin) seit 1995 in der Universitätsbibliothek Dortmund
-tätig, dort zehn Jahre lang Öffentlichkeitsarbeiterin und seit vier
-Jahren Geschäftsbereichsleitung Medienbereitstellung und Information
-(Benutzung).
-
-Interessensschwerpunkte: Nutzerforschung, Lernortentwicklung, Marketing
-und Management
-
-Kontakt: ute.engelkenmeier@tu-dortmund.de
-
 [^1]: Zum Thema "die Bibliothek in der Literatur" gibt es zahlreiche
     Veröffentlichungen, hingewiesen sei an dieser Stelle auf die
     Bibliographie von Monika Bargmann, online unter:
