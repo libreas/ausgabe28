@@ -27,6 +27,8 @@ Bilder geplant sind. Gute Geschichten sind so komplex wie die Welt. Und
 sie kommen genau wie diese zwanglos und bestenfalls in ihrer Rahmung
 geplant.
 
+![Die Redaktion vor dem Beginn des Symposiums am ICI Berlin. Es fehlen, warum eigentlich, Doreen und Linda.](img/editorial.jpg)
+
 Wie gesagt: Die ersten zehn Jahre der LIBREAS. Library Ideas liessen
 sich bestimmt, wenn man viel weglässt und geradebiegt, als
 zusammenhängende Erzählung fassen: Hervorgegangen aus den leicht
