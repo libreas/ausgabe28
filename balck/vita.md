@@ -1,0 +1,2 @@
+---
+**Sandra Balck**, Studium Bibliotheksmanagement (B.A.) und Informationswissenschaft (M.A.) an der Fachhochschule Potsdam, aktuell studentische Mitarbeiterin im Projekt "Hidden Kosmos" der Humboldt Universität zu Berlin, davor im Projekt "Digitales Textarchiv" der Berlin Brandenburgischen Akademie der Wissenschaften.
