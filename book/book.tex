@@ -17,6 +17,14 @@
 \sloppy
 \raggedbottom
 
+%%% left align items http://tex.stackexchange.com/questions/170525/itemize-left-margin
+\usepackage{enumitem}
+\newlist{myitemize}{itemize}{3}
+\setlist[myitemize,1]{label=\textbullet,leftmargin=1in}
+\setlist[myitemize,2]{label=$\rightarrow$,leftmargin=1em}
+\setlist[myitemize,3]{label=$\diamond$}
+
+
 \usepackage{rotating}
 %%% disable figure numbering
 
@@ -42,6 +50,10 @@ breaklinks= true]{hyperref}
 
 %%%%%%%bod test
 \linespread{1.15}
+
+%%% microtype
+\usepackage{microtype}
+
 
 % Hurenkinder und Schusterjungen verhindern
 \clubpenalty10000
@@ -109,6 +121,7 @@ breaklinks= true]{hyperref}
 \begin{document}
 
 \frontmatter
+
 
 \pagestyle{empty}
 \begin{flushright}
